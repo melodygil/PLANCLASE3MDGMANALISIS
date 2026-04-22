@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.13 (CondicionalesMDGM)" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (CondicionalesMDGM)" project-jdk-type="Python SDK" />
+=======
+>>>>>>> 038ac7a226fd4f8fe3c4f9ab0158aeb24867d41a
+</project>
